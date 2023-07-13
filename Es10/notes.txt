@@ -1,2 +1,4 @@
 Eseguire il file "clean.sh" prima di eseguire il programma per eliminare gli output già presenti.
+Eliminare manualmente i file nelle cartelle "exchange" o "independent" se si vuole eseguire il
+programma con uno solo dei due metodi.
 L'eseguibile è "TSP.exe".
