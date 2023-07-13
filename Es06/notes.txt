@@ -1,0 +1,6 @@
+Il programma legge i parametri iniziali dal file "input.dat".
+Il programma genera i file già nella cartella giusta (gibbs o metro).
+Il file "clean.sh" rimuove tutti gli output da queste cartelle. Va eseguito solo se
+si vogliono generare dei nuovi file con entrambi gli algoritmi (poichè la maggior parte sono aperti in
+modalità append dal programma). Per eseguire un solo algoritmo, vanno rimossi manualmente i file
+di output dalla cartella corrispondente.
