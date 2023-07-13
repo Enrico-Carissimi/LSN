@@ -1,8 +1,8 @@
 # LSN
-Consegna delle esercitazioni del laboratorio di simulazione numerica
+Esercitazioni del laboratorio di simulazione numerica
 
 Ogni cartella "Es##" corriponde all'esercitazione numero ##.  
-In ognuna di queste, il codice in C++ è contenuto nella cartello "code"; la relazione è il file "Relazione_##.ipynb".  
+In ognuna di queste, il codice in C++ è contenuto nella cartella "code"; la relazione è il file "Relazione_##.ipynb".  
 
 Per compilare il codice in C++ basta eseguire "make". Per far girare il programma, se non è diversamente specificato,
 basta "./main.exe". Il nome dell'eseguibile cambia in pochi casi.  
