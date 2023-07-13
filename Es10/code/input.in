@@ -1,0 +1,11 @@
+0
+300
+20
+1000
+
+
+
+    exchange? (0 no, 1 yes)
+    nGenerations
+    migration frequency (should divide nGenerations)
+    nIndividuals
