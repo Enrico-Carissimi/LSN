@@ -1,0 +1,4 @@
+Prima di eseguire il programma, rimuovere i file di output già presenti
+nelle cartelle "circle" e "square" (o solo in quella della configurazione che
+si vuole risolvere) perché i file sono aperti in modalità append.
+Per rimuovere i file da entrambe si può usare il "clean.sh".
