@@ -1,0 +1,15 @@
+Come per l'esercitazione 4:
+per eseguire il codice in C++ bisogna eseguire "./NVE_NVT.exe <p>" dove <p> è un parametro che determina
+quale fase si vuole simulare: "s" per lo stato solido, "l" liquido, "g" gassoso (si usa come input il file "input.in"
+della cartella corrispondente) e "i" per usare come input quello nella cartella dell'eseguibile.
+In questo caso, in base al metodo di simulazione scelto, andrà modificato il file di input "input.in" della cartella
+corrispondente alla fase scelta (i parametri ottimali trovati sono indicati in questi file).
+"MD" indica la dinamica molecolare, "MC" indica la simulazione con metodi Monte Carlo (Metropolis).
+
+I file di output del programma in C++ sono generati nella stessa cartella dell'eseguibile e non nelle
+rispettive cartelle ("solid", "liquid" e "gas", e poi "MC" o "MD"), in modo che il "clean.sh" rimuova solo i file appena generati.
+Vanno spostati manualmente nella cartella corrispondente per essere visualizzati nel jupyter notebook.
+
+I file *.out e therm_* nelle cartelle dei tre stati sono quelli relativi alla fase di termalizzazione
+e non sono prodotti dal programma. I primi sono usati come input dal programma.
+Nelle cartelle "<stato>/MC", i file "data-7.2.out" non generati dal programma (il codice relativo è commentato).
