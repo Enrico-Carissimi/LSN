@@ -1,0 +1,23 @@
+1.0
+1.0
+5.0
+100
+10000
+0.1
+0.1
+0.001
+10
+
+    sigma0
+    mu0
+    metropolis: step size
+                nBlocks
+                nSteps (per block)
+    simulated annealing: step size
+                         T0
+                         delta T
+                         nSteps per tempertaure
+
+                
+    
+                
