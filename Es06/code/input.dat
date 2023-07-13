@@ -1,0 +1,24 @@
+0.5
+2.0
+0.1
+50
+1.0
+0.02
+0
+0
+100
+100000
+
+  ReadInput >> temp;
+  ReadInput >> final temp; // (same as temp to run once)
+  ReadInput >> delta temp; // (the program runs while temp + delta temp <= final temp)
+                           // IF delta temp=0 THE PROGRAM WILL NEVER STOP, even if temp=final temp
+                           // PLEASE USE REASONABLE CONDITIONS
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;
+  ReadInput >> restart; // do not use if the program runs more than once
+                        // restarts the program from "config.rest" and "seed.rest" (not used)
+  ReadInput >> nblk;
+  ReadInput >> nstep;
