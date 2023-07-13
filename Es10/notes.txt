@@ -1,0 +1,2 @@
+Eseguire il file "clean.sh" prima di eseguire il programma per eliminare gli output già presenti.
+L'eseguibile è "TSP.exe".
