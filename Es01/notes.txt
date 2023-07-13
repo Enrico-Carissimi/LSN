@@ -1,5 +1,5 @@
 Visto che il codice in c++ è molto veloce da eseguire, per semplicità ho creato un solo file "main.cpp"
 invece di crearne uno per esercizio.
 
-Il file "data/nr_data-1.1.3.out" è stato generato ripetendo 10000 volte il calcolo del chi^2 nel punto 3 dell'esercizio 01.1,
+Il file "code/data/nr_data-1.1.3.out" è stato generato ripetendo 10000 volte il calcolo del chi^2 nel punto 3 dell'esercizio 01.1,
 invece che le 100 richieste. Il codice c++ caricato esegue l'esercizio richiesto e non genera questo file.
