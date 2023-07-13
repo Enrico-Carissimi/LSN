@@ -1,5 +1,5 @@
 Nell'esercizio 11.3, gli specchietti che generano i grafici in 3D sono commentati
 perché fanno crashare il kernel ("the kernel appears to have died") o durante o subito dopo la loro esecuzione.
 Da soli funzionano; probabilmente jupyter supera la memoria che ha a disposizione essendo il file molto lungo.
-Il codice in python di questo esercizio è riportato in un file a parte ("11.3.ipynb"), senza commenti, solo
+In caso serva, il codice in python di questo esercizio è riportato in un file a parte ("11.3.ipynb"), senza commenti, solo
 per visualizzare i grafici in 3D.
