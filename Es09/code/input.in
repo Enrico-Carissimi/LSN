@@ -1,0 +1,13 @@
+1
+0
+34
+200
+1000
+
+
+
+    config (0 circle, 1 square)
+    mode (if 1, print information for each generation, if 0 only for the last one)
+    nCities
+    nGenerations
+    nIndividuals
