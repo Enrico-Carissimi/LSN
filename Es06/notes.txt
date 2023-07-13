@@ -1,3 +1,4 @@
+Il nome dell'eseguibile non è "main.exe" ma "Monte_Carlo_ISING_1D.exe".
 Il programma legge i parametri iniziali dal file "input.dat".
 Il programma genera i file già nella cartella giusta (gibbs o metro).
 Il file "clean.sh" rimuove tutti gli output da queste cartelle. Va eseguito solo se
